@@ -1,6 +1,6 @@
 {
-  "issuer": "",
-  "jwks_uri": "/openid/jwks",
+  "issuer": "https://raw.githubusercontent.com/yanwucai/oidctest/main",
+  "jwks_uri": "https://raw.githubusercontent.com/yanwucai/oidctest/main/openid/jwks",
   "response_types_supported": [
     "id_token"
   ],
